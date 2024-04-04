@@ -140,8 +140,5 @@ This will build the images and bring up the containers for frontend, backend and
 
 Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com)
 
-## Show your support
-
-Dont forget to give a ⭐️ to this project ... Happy coding!
 # erp-crm
 # erp-crm
