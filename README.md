@@ -25,8 +25,6 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 [French](doc/README.fr.md#French-Translation) , [Spanish](doc/README.sp.md#Spanish-Translation)
 
-## License FAQ :
-
 ## Features : 
 
 Invoice Management 💰
