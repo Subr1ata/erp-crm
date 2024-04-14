@@ -2,7 +2,7 @@
     <a href="https://www.idurarapp.com/">
   <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
     </a>
-    <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
+    <h1>ERP / CRM | Node.js React.js</h1>
     <p align="center">
         <p>IDURAR ERP CRM | Simple To Use | 44 Languages </p>
     </p>
@@ -24,12 +24,6 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 ## Translation : 
 
 [French](doc/README.fr.md#French-Translation) , [Spanish](doc/README.sp.md#Spanish-Translation)
-## License
-
-IDURAR is Free Open Code Source [fair-code](http://faircode.io) distributed under the
-[**IDURAR License 1.0**](https://github.com/idurar/idurar-erp-crm/blob/master/LICENSE)
-
-## License FAQ :
 
 ## Features : 
 
@@ -56,19 +50,6 @@ No, you cannot customize IDURAR as a SaaS and provide it to other users , You ar
 ### For custom developement service or premium Support :
 
 [Get in touch](mailto:hello@idurarapp.com)
-
-## How To Deploy IDURAR ERP CRM :
-
-🔥 I would like to invite you for a weekly free IDURAR Webinar (Node.js React.js course), where you learn how to deploy IDURAR on cloud , and create a new api and new crud app with IDURAR in just one hour ?
-Please fill this form if you are interested : [https://forms.gle/qz2YZ3xQFQ77bGhS8](https://forms.gle/qz2YZ3xQFQ77bGhS8)
-
-The Webinar will be this Wednesday at 1pm GMT.
-
-## Our Sponsors
-
-  <a href="https://m.do.co/c/4ead8370b905?ref=idurarapp.com">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
-  </a>
 
 #
 
