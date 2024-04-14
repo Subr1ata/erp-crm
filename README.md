@@ -78,7 +78,7 @@ The Webinar will be this Wednesday at 1pm GMT.
 
 IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
-**Live App Demo** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+<!-- **Live App Demo** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/) -->
 
 ## Getting started
 
@@ -136,12 +136,12 @@ This will build the images and bring up the containers for frontend, backend and
 
 7.[Questions](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#questions)
 
-## Custom Development Service
+<!-- ## Custom Development Service
 
-Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com)
+Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com) -->
 
 ## Show your support
 
 Dont forget to give a ⭐️ to this project ... Happy coding!
-# erp-crm
-# erp-crm
+<!-- # erp-crm
+# erp-crm -->
